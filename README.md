@@ -1,22 +1,8 @@
-<p align="center">
-  <img src="data_hive_logo.png" alt="Logo" width="300"/>
-</p>
+<h1 align="center">Preço de Imóveis por m²: Análise e Predição</h1>
 
-<h1 align="center">Predição de Diabetes: Análise de Fatores de Risco e Classificação</h1>
-
-O Diabetes é uma doença crônica causada pela produção insuficiente ou má absorção de insulina, um hormônio essencial para a regulação da glicose no sangue. Mais de meio bilhão de pessoas são afetadas globalmente, e o número de casos tem crescido nos últimos anos. A identificação precoce da doença é crucial para garantir a qualidade de vida dos pacientes, ajudando a evitar complicações graves como cegueira, infarto e amputação de membros.
+Entender o valor dos imóveis é essencial para evitar preços injustos e tomar decisões melhores na hora de comprar, vender ou investir. Fatores como metrô, idade do prédio e infraestrutura do bairro influenciam muito no preço, e analisar dados ajuda a enxergar isso com mais clareza, e nem sempre é facil de entender se o preço é justo , por isso, usaremos modelos preditivos para ajudar.
 ## Metodologia
-Este projeto utiliza o [Diabetes prediction dataset](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset/data) para prever o risco de Diabetes, identificando padrões e tendências por meio de técnicas de [Ciência de Dados](https://en.wikipedia.org/wiki/Data_science) e [Aprendizado de Máquina](https://en.wikipedia.org/wiki/Machine_learning). Realizamos uma Análise Exploratória dos dados, preparações para garantir a qualidade dos dados e uma Análise Comparativa de Modelos para identificar o melhor modelo preditivo.
-
-## Graphical Abstract
-Este resumo gráfico ilustra o fluxo de trabalho do projeto, destacando os principais passos e resultados.
-
-
-  ![Graphical Abstract](graphical_abstract/diabetes_graphical_abstract.png)
+Este projeto utiliza o [Real Estate Valuation](https://archive.ics.uci.edu/dataset/477/real+estate+valuation+data+set) para prever o prever o valor dos imóveis por metro quadrado, identificando padrões e tendências por meio de técnicas de [Ciência de Dados](https://en.wikipedia.org/wiki/Data_science) e [Aprendizado de Máquina](https://en.wikipedia.org/wiki/Machine_learning). Realizamos uma Análise Exploratória dos dados, preparações para garantir a qualidade dos dados e uma Análise Comparativa de Modelos para identificar o melhor modelo preditivo.
 
 ## Desenvolvedores
- - [Maria Fernanda Cordeiro](https://github.com/Fernanda-Cordeiro)
- - [Nágila Duarte](https://github.com/NagilaDuarte)
- - [Nicole Souza](https://github.com/nicolesouzab)
- - [Paulo Eduardo de Souza](https://github.com/Paulo3078)
  - [Renan Teixeira](https://github.com/renantleite)
