@@ -4,7 +4,7 @@ Entender o valor dos imóveis é essencial para evitar preços injustos e tomar 
 ## Metodologia
 Este projeto utiliza o [Real Estate Valuation](https://archive.ics.uci.edu/dataset/477/real+estate+valuation+data+set) para prever o prever o valor dos imóveis por metro quadrado, identificando padrões e tendências por meio de técnicas de [Ciência de Dados](https://en.wikipedia.org/wiki/Data_science) e [Aprendizado de Máquina](https://en.wikipedia.org/wiki/Machine_learning). Realizamos uma Análise Exploratória dos dados, preparações para garantir a qualidade dos dados e uma Análise Comparativa de Modelos para identificar o melhor modelo preditivo.
 
-## 📊 Objetivos do Projeto
+##  Objetivos do Projeto
 
 ### 🔹 **Regressão**
 Prever o **preço por m²** de um imóvel com base em suas características:
@@ -29,7 +29,7 @@ Identificar se um imóvel pertence ao grupo dos **25% mais caros** da base de da
 
 ---
 
-## 🧠 Metodologia
+##  Metodologia
 
 - **Passos realizados:**  
   ✔ Analise Exploratoria  
